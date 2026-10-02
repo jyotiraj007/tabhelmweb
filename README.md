@@ -1,6 +1,6 @@
 # Tabhelm
 
-**Let an AI agent use your real, logged-in Chrome.** Tabhelm is an unofficial, open-source Chrome extension plus a small local helper. It lets an agent you choose (Cursor's agent, or the extension's built-in side-panel chat) see and control your browser to test web apps, read pages behind a login, fill forms and debug front-end problems.
+**Let an AI agent use your real, logged-in Chrome.** Tabhelm is an unofficial Chrome extension plus a small local helper. It lets an agent you choose (Cursor's agent, or the extension's built-in side-panel chat) see and control your browser to test web apps, read pages behind a login, fill forms and debug front-end problems.
 
 > Tabhelm is not affiliated with or endorsed by Cursor/Anysphere, Anthropic, Google or OpenAI.
 
